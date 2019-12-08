@@ -94,8 +94,8 @@ if __name__ == '__main__':
 ## Обучение нейросети
 
 ### Полносвязная однослойная сеть
-**Архитектура**
-![](nn_architecture/singlelayer.png)
+**Архитектура**\
+![](nn_architecture/singlelayer.png)\
 **Результаты**
 ```
 Model: "sequential_1"
@@ -112,8 +112,8 @@ Test_score: 0.6499999761581421;
 Test_loss: 1.0088541163338556
 ```
 ### Полносвязная многослойная сеть
-**Архитектура**
-![](nn_architecture/multilayer.png)
+**Архитектура**\
+![](nn_architecture/multilayer.png)\
 **Результаты**
 ```
 Model: "sequential_1"
@@ -134,8 +134,8 @@ Test_score: 0.8111110925674438;
 Test_loss: 1.0730732235643599
 ```
 ### Свёрточная сеть
-**Архитектура**
-![](nn_architecture/cnn.png)
+**Архитектура**\
+![](nn_architecture/cnn.png)\
 **Результаты**
 ```
 Model: "sequential_1"
